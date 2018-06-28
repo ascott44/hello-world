@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome to Al Scott's homepage!
 Description: Look out for my project updates!
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
